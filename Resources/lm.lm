@@ -1,0 +1,41 @@
+\data\
+ngram 1=28
+
+
+
+
+
+
+
+\1-grams:
+-1 </s> -0.3
+-1 <s> -0.25
+-1 turnoff -0.25
+-1 google -0.25
+-1 youtube -0.25
+-1 facebook -0.25
+-1 twitter -0.25
+-1 back -0.25
+-1 forward -0.25
+-1 left -0.25
+-1 right -0.25
+-1 up -0.25
+-1 down -0.25
+-1 close -0.25
+-1 exit -0.25
+-1 newtab -0.25
+-1 reload -0.25
+-1 refresh -0.25
+-1 enter -0.25
+-1 autoscroll -0.25
+-1 stopscroll -0.25
+-1 allTab -0.25
+-1 recentWindow -0.25
+-1 leftTab -0.25
+-1 rightTab -0.25
+-1 recentTab -0.25
+-1 explorer -0.25
+-1 chess -0.25
+
+
+\end\

@@ -1,0 +1,71 @@
+a EY
+b B IY
+c S IY
+c S IH
+c S EY
+c S EH
+d D IY
+d D IH
+d DH IH
+d D EH
+d T IY
+e IY
+f EH F
+f EY F
+f AH F
+f AH F UW
+g JH IY
+g Z IY
+g ZH IY
+h EY CH
+h EY S
+h AY CH
+1 W AH N
+2 T UW
+3 T UW IY
+3 TH R IY
+3 T R IY
+3 TH R UW IY
+3 TH IY R IY
+4 F AO R
+5 F AY V
+5 F AY B
+5 F AY IY B
+6 S IH K S
+6 S IY K S
+7 S EH V AH N
+8 EY T
+8 EY D
+select S AH L EH K T
+select S IH L EH K T
+select S IY L EH K T
+select S IY L EY K T
+move M UW V
+move M UW F
+move F R AH M
+moveTo M UW V T UW
+moveTo M UW F T UW
+moveTo M UW T UW
+a2 EY T UW
+g6 JH IY S IH K S
+confirm K AH N F ER M
+yes Y EH S
+yes Y IY AH
+yes Y IY AH S
+no N OW
+b4 B IH F AO R
+a5 EY F AY B
+a5 EY F AY V
+a5 EY F AY IY V
+a5 EY F AY IY B
+a4 EY F AO R
+f3 EY F TH R IY
+z IY N T UW
+z IH N T OW
+newgame N UW G EY M
+newgame N IY UW G EY M
+exit EH G Z IH T
+the DH AH
+the DH IH
+game G EY M
+exitgame T ER N AO F
